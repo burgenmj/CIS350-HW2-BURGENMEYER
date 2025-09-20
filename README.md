@@ -1,5 +1,7 @@
 # Joshua Burgenmeyer
 
+[Pages](https://burgenmj.github.io/CIS350-HW2-BURGENMEYER/)
+
 ## Interests
 
 - Video Games
