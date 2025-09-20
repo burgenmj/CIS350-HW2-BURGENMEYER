@@ -1,6 +1,6 @@
 # Joshua Burgenmeyer
 
-[Pages](https://burgenmj.github.io/CIS350-HW2-BURGENMEYER/)
+[Github Page](https://burgenmj.github.io/CIS350-HW2-BURGENMEYER/)
 
 ## Interests
 
